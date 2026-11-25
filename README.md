@@ -48,7 +48,7 @@ Your work stays on your computer. Aivion reads no conversation of your agents, a
 
 Aivion is bought at **[aivion.app](https://aivion.app/en/pricing/)**: €24,99 per year, VAT included. It is not renewed automatically, and all updates are included while your licence runs.
 
-After paying you download Aivion at once, from the thank-you page, the mail, or your account at [mijn.aivion.app](https://mijn.aivion.app). New versions come by themselves: Aivion tells what is new, and asks whether to update now, later, or not this one.
+After paying you download Aivion at once, from the thank-you page, the mail, or your account at [account.aivion.app](https://account.aivion.app). New versions come by themselves: Aivion tells what is new, and asks whether to update now, later, or not this one.
 
 ## This repository
 
@@ -65,7 +65,7 @@ Questions or problems? Mail [support@aivion.app](mailto:support@aivion.app).
 
 Je hebt Windows 10 of 11 nodig, en één agent: Claude Code met een betaald Claude-abonnement of een API-sleutel van Anthropic, of Codex met een ChatGPT-abonnement of een API-sleutel van OpenAI.
 
-Aivion koop je op **[aivion.app](https://aivion.app/prijs/)**: €24,99 per jaar, inclusief btw. Het wordt niet automatisch verlengd, en alle updates horen erbij zolang je licentie loopt. Na het betalen download je Aivion meteen, van de bedankpagina, uit de mail of uit je account op [mijn.aivion.app](https://mijn.aivion.app). Nieuwe versies komen vanzelf; Aivion vraagt eerst of je wilt bijwerken.
+Aivion koop je op **[aivion.app](https://aivion.app/prijs/)**: €24,99 per jaar, inclusief btw. Het wordt niet automatisch verlengd, en alle updates horen erbij zolang je licentie loopt. Na het betalen download je Aivion meteen, van de bedankpagina, uit de mail of uit je account op [account.aivion.app](https://account.aivion.app). Nieuwe versies komen vanzelf; Aivion vraagt eerst of je wilt bijwerken.
 
 Deze repository bevat alleen de installers, één release per versie, waar de app zijn updates vandaan haalt. Vragen? Mail [support@aivion.app](mailto:support@aivion.app).
 
